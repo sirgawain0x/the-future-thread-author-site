@@ -13,7 +13,7 @@ Landing page for **The Future Thread: Redefining Ownership, Autonomy, and Effici
 - Hero with book cover + tagline
 - About the book (official description)
 - Author bio (Gawain "G2" Bracy II)
-- Buy section — IngramSpark, Apple Books, Amazon
+- Buy section — IngramSpark, Apple Books, Amazon, Google Play Books
 - **For AI Agents** — `publish.new` purchase embed (`data-slug="the-future-thread-57cc0b0c"`)
 - QR "scan to buy" section
 - "Coming Next" placeholder for future books
@@ -33,3 +33,5 @@ The site is a single HTML file — edit `index.html` and redeploy. The cover and
 - IngramSpark: https://shop.ingramspark.com/b/084?params=bIQekyPdCu4nW1ZsOLQ9bknlXeSgMRv4zumOBvJJG1b
 - Apple Books: https://books.apple.com/us/book/the-future-thread/id6797340322
 - Amazon: https://a.co/d/0d9cxt7b
+- Google Play Books: https://play.google.com/store/books/details?id=BJz-EQAAQBAJ
+- Google Books: https://books.google.com/books/about?id=BJz-EQAAQBAJ
